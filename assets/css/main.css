@@ -559,6 +559,27 @@ Mobile
   padding-bottom: 0;
 }
 
+/* Contact */
+.contact {
+  padding: 0px 15px 40px;
+  background: #F8F6F6;
+}
+
+.contact p {
+  font-size: 18px;
+  font-weight: 700;
+  color: #EC6F1F;
+  padding-bottom: 20px;
+}
+
+.contact p .email {
+  color: #4769E2;
+  text-decoration: underline;
+}
+
+.contact p .phone {
+  color: #000000;
+}
 
 
 /* ===================== ===================== 
@@ -683,6 +704,15 @@ Tablet (768px)===================== ===================== */
     line-height: 1.5;
   }
 
+  /* Contact */
+  .contact {
+    padding: 0px 60px 40px;
+  }
+
+  .contact-container {
+    display: flex;
+    justify-content: space-between;
+  }
 
 }
 
@@ -925,6 +955,16 @@ Desktop (992px)
   }
 
   .faq-container {
+    width: 900px;
+    margin: 0 auto;
+  }
+
+  /* Contact */
+  .contact {
+    padding: 0px 30px 51px;
+  }
+
+  .contact-container {
     width: 900px;
     margin: 0 auto;
   }
