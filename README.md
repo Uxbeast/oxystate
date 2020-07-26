@@ -1,2 +1,3 @@
-# BlankSlate
-Starter code for frontend projects
+# OxyState
+Front-end of oxystate's landing page.
+
