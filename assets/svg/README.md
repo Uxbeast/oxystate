@@ -1,1 +1,0 @@
-Place any needed SVG files in this directory, then delete this .md file. If no SVG files are needed, delete the SVG directory as well.
